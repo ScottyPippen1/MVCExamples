@@ -1,0 +1,17 @@
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll.config
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.pdb
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Release\LocalizationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Release\LocalizationExample.pdb

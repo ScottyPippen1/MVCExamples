@@ -1,0 +1,48 @@
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll.config
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\LocalizationExample.pdb
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.xml
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.pdb
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.csprojResolveAssemblyReference.cache
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\bin\es\LocalizationExample.resources.dll
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.Views.Home.App_LocalResources.About.resources
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.Views.Home.App_LocalResources.About.es.resources
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.csproj.GenerateResource.Cache
+e:\onedrive\documents\visual studio 2013\Projects\LocalizationExample\LocalizationExample\obj\Debug\es\LocalizationExample.resources.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll.config
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\LocalizationExample.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\LocalizationExample.pdb
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\es\LocalizationExample.resources.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Razor.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Razor.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Helpers.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\bin\System.Web.Mvc.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.csprojAssemblyReference.cache
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.Views.Home.App_LocalResources.About.resources
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.Views.Home.App_LocalResources.About.es.resources
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.csproj.GenerateResource.cache
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\es\LocalizationExample.resources.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.csproj.CopyComplete
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\LocalizationExample\LocalizationExample\obj\Debug\LocalizationExample.pdb

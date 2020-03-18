@@ -1,0 +1,52 @@
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.dll.config
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.pdb
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Helpers.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Mvc.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Deployment.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Razor.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Deployment.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Razor.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Helpers.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Mvc.xml
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.csprojResolveAssemblyReference.cache
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.dll
+e:\onedrive\documents\visual studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.pdb
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\Antlr3.Runtime.dll
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\Newtonsoft.Json.dll
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Optimization.dll
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\WebGrease.dll
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\Antlr3.Runtime.pdb
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\Newtonsoft.Json.xml
+E:\OneDrive\Documents\Visual Studio 2013\Projects\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Optimization.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.dll.config
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\BundlingMinificationExample.pdb
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\Antlr3.Runtime.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\Newtonsoft.Json.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Helpers.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Mvc.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Optimization.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Razor.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\WebGrease.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\Antlr3.Runtime.pdb
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\Newtonsoft.Json.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Optimization.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Razor.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Helpers.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\bin\System.Web.Mvc.xml
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.csprojAssemblyReference.cache
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.csproj.CopyComplete
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.dll
+C:\Users\ZackF\source\repos\MVCTutorialMaterial\BundlingMinificationExample\BundlingMinificationExample\obj\Debug\BundlingMinificationExample.pdb
